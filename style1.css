@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+}
+
+
+li {
+    list-style-type: lower-roman;
+}
+
+
+  a:link {
+      color:pink;
+  }
+
+  a:visited {
+      color:blueviolet;
+  }
+
+  a:hover {
+      color:brown;
+      font-size: x-large; 
+      font-style: italic;
+  }
